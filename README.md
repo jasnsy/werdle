@@ -7,6 +7,13 @@ Wordle clone created from a tutorial. Refactored the original creater's code to 
 - Replay button added when game is over
 
 ## How to Start
+This project assumes the user has `node` and `npm` installed.  
+
+### Tested with:
+- `node v14.17.3`
+- `npm 6.14.13`
+  
+### Steps to run:
 1. Type `npm start` in console  
 2. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 3. Enjoy
