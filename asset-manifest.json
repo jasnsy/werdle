@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/werdle/static/css/main.54a5aaaa.css",
+    "main.css": "/werdle/static/css/main.dfd975f5.css",
     "main.js": "/werdle/static/js/main.dc98bcdd.js",
     "static/js/787.e01666d6.chunk.js": "/werdle/static/js/787.e01666d6.chunk.js",
     "static/media/wordle-bank.txt": "/werdle/static/media/wordle-bank.6ace1dbf5cae3fc37fc3.txt",
     "index.html": "/werdle/index.html",
-    "main.54a5aaaa.css.map": "/werdle/static/css/main.54a5aaaa.css.map",
+    "main.dfd975f5.css.map": "/werdle/static/css/main.dfd975f5.css.map",
     "main.dc98bcdd.js.map": "/werdle/static/js/main.dc98bcdd.js.map",
     "787.e01666d6.chunk.js.map": "/werdle/static/js/787.e01666d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54a5aaaa.css",
+    "static/css/main.dfd975f5.css",
     "static/js/main.dc98bcdd.js"
   ]
 }
