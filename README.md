@@ -5,6 +5,7 @@ Wordle clone created from a tutorial. Refactored the original creater's code to 
 - Hightlight keyboard key if correctly placed on board
 - If word does not exist in word bank, attempt is not used
 - Replay button added when game is over
+- Made it mobile friendly
 
 ## How to Start
 This project assumes the user has `node` and `npm` installed.  
